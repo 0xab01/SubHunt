@@ -48,7 +48,7 @@ Command-line Options
 -o, --output : The output directory to save the results (required).
 Example
 bash
-Copy code
+
 python subhunt.py -d example.com -o /home/user/Desktop/results
 Output
 The results will be saved in the specified output directory with the following files:
